@@ -15,5 +15,5 @@ I'm a result oriented Frontend developer who is skilled in making Web App access
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adepejustephe&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifeoluwa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adepejustephen&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adepejustephen&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifeoluwa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adepejustephen&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
